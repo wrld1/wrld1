@@ -23,7 +23,6 @@
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
 
 ---
 
@@ -31,4 +30,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wrld1&theme=gruvbox&border_radius=4.5)
 
-#
+
+
+---
