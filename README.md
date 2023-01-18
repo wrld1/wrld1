@@ -1,4 +1,4 @@
-### Kyrylo Lolenko 👋 ![MuaKissGIF](https://user-images.githubusercontent.com/98611618/213261041-671c5167-f51b-4a93-b745-a7555c2ae094.gif)
+### Kyrylo Lolenko 😶‍🌫️
 
 
 
