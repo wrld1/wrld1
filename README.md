@@ -2,7 +2,7 @@
 
 
 
-**`Front-end Developer`**
+**`Full-Stack Developer`**
 
 
 ---
